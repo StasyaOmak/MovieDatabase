@@ -16,5 +16,7 @@ Welcome to MovieDatabase, your go-to application for exploring and discovering a
 
 ## Screenshots
 
-![Simulator Screen Recording - iPhone 15 Pro - 2023-12-06 at 21 48 52](https://github.com/StasyaOmak/MovieDatabaseApp/assets/127408467/636862a1-4d52-4ca5-b10f-0e133107f66b) ![Simulator Screenshot - iPhone 15 Pro - 2023-12-06 at 21 58 57](https://github.com/StasyaOmak/MovieDatabaseApp/assets/127408467/70b461f7-7ced-4ae4-9409-6c9fddc5edd6)
+![Simulator Screen Recording - iPhone 15 Pro - 2023-12-06 at 21 48 52](https://github.com/StasyaOmak/MovieDatabaseApp/assets/127408467/636862a1-4d52-4ca5-b10f-0e133107f66b)  ![Simulator Screenshot - iPhone 15 Pro - 2023-12-06 at 21 58 57](https://github.com/StasyaOmak/MovieDatabaseApp/assets/127408467/70b461f7-7ced-4ae4-9409-6c9fddc5edd6)
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2023-12-06 at 21 59 05](https://github.com/StasyaOmak/MovieDatabaseApp/assets/127408467/6fd95e2c-a5ee-4104-bf69-0bc6946d4596)
